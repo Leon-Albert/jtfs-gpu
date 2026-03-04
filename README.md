@@ -1,5 +1,7 @@
  <div align="center">    
   
+# Fork of JTFS-gpu to work with recent version of scipy (>= 1.17.0) as sph_harm was replaced by sph_harm_y
+
 # Differentiable Time-Frequency Scattering on GPU 🌊
 
 ### source code by
