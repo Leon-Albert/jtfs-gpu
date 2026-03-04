@@ -1,6 +1,0 @@
-numpy
-scipy
-appdirs
-configparser
-packaging
-

@@ -1,3 +1,0 @@
-include '/homes/cv300/Documents/scattering/scripts/gin/doce/setting.gin'
-
-USE_CQT = True
